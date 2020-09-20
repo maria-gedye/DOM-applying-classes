@@ -21,6 +21,18 @@ div {
   background-color: blue;
 }
 
+.green {
+  background-color: green;
+}
+
+.peach {
+  background-color: peachpuff;
+}
+
+.pink {
+  background-color: pink;
+}
+
 .invisible {
   display: none;
 }
@@ -29,5 +41,5 @@ div {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
-  background-color: white;
+  background-color: pink;
 }
